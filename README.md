@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hi there 👋, I’m Sanjay!</h2>
 
-<!--
-**MSanjaySharma/MSanjaySharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🕸️ &nbsp; Passionate about the **Web (WWW)** and I yearn to **simplify web for everyone**.
+- 🔭 &nbsp; Currently working on **MERN Stack (MongoDB, Express.js, React, Node.js)** .
+- 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JavaScript | ES6 | C++
+- 🌐 &nbsp; HTML | CSS | ReactJS | Next.JS | Node.js | Express.js
+- 🛢 &nbsp; MongoDB
+- 🔧 &nbsp; Git | Markdown
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/MSanjaySharma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-M%20Sanjay%20Sharma-blue?style=flat&logo=linkedin"></a>
+<a href="https://github.com/MSanjaySharma"><img alt="Github" src="https://img.shields.io/badge/GitHub-MSanjaySharma-blue?style=flat&logo=github"></a>
+<a href="mailto:sanjay98.sharma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sanjay98.sharma%40gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
