@@ -11,7 +11,7 @@
 
 - 💻 &nbsp; JavaScript | ES6 | C++
 - 🌐 &nbsp; HTML | CSS | ReactJS | Next.JS | Node.js | Express.js
-- 🛢 &nbsp; MongoDB
+- 🛢 &nbsp; MongoDB | PostgreSQL
 - 🔧 &nbsp; Git | Markdown
 
 <h3> 🤝🏻 Connect with Me </h3>
