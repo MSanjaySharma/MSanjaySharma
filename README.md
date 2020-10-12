@@ -10,7 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES6 | C++
-- 🌐 &nbsp; HTML | CSS | ReactJS | Next.JS | Node.js | Express.js
+- 🌐 &nbsp; HTML | CSS | ReactJS | Next.JS | Node.js | Express.js | AWS
 - 🛢 &nbsp; MongoDB | PostgreSQL
 - 🔧 &nbsp; Git | Markdown
 
